@@ -1,9 +1,0 @@
-LICENSE
-pyproject.toml
-setup.py
-Visual_Plotter.egg-info/PKG-INFO
-Visual_Plotter.egg-info/SOURCES.txt
-Visual_Plotter.egg-info/dependency_links.txt
-Visual_Plotter.egg-info/entry_points.txt
-Visual_Plotter.egg-info/top_level.txt
-visualplotter/__main__.py
