@@ -1,0 +1,3 @@
+[console_scripts]
+VSPlotter = visualplotter.__main__:main
+
